@@ -75,7 +75,7 @@ This project implements **all required and advanced DAX functions**.
 
 📷 **Matrix Visual Screenshot:**  
 
-![DAX Depo Matrix Visuals](Visuals.png)
+![DAX Depo Matrix Visuals](image.png)
 
 ---
 
